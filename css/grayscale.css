@@ -220,6 +220,11 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
+
+.contact-section {
+background: url(../img/contact-bg.jpg) no-repeat center center scroll;
+}
+
 .download-section {
   width: 100%;
   padding: 50px 0;
