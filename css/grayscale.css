@@ -315,8 +315,8 @@ body {
 }
 
 @media only screen and (max-width: 670px) {
-  #youtube {
-    width: 270px;
+  .showme {
+    width: 270px !important;
   }
 }
 
