@@ -315,7 +315,8 @@ body {
 }
 
 @media only screen and (max-width: 670px) {
-  #video {
+  #youtube {
     width: 270px;
   }
 }
+
